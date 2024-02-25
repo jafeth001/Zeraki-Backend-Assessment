@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 import java.util.List;
 @Data
 @Entity
-@Builder
 @AllArgsConstructor
 @NoArgsConstructor
 public class Institution {
