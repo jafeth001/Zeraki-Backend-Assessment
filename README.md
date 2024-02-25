@@ -26,7 +26,7 @@
 #### transfer : localhost:8080/student/transfer?stdId=&instId=
 #### sort ascending by course: localhost:8080/student/sort/asc/course
 #### change course : localhost:8080/student/change-course?stdId=&courseId=
-#### list 10 per page: localhost:8080/student/pagination?offset=&pageSize=
+#### list 10 per page: localhost:8080/student/pagination?offset=0&pageSize=10
 
 
 
